@@ -55,14 +55,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
         display: block;
         width: 100%;
         margin-bottom: 16px;
-        border-radius: 8px;
+        border-radius: 16px;
       }
       input[type="submit"] {
         background-color: #4CAF50;
         color: white;
         border: none;
         padding: 16px 24px;
-        border-radius: 8px;
+        border-radius: 16px;
         cursor: pointer;
       }
       input[type="submit"]:hover {
